@@ -1,6 +1,6 @@
 
   <footer>
-    <p>&copy; 2025 SIWS College. All Rights Reserved.</p>
+    <p>&copy; Created by Musheer 2025 SIWS College.</p>
   </footer>
 
 </body>
